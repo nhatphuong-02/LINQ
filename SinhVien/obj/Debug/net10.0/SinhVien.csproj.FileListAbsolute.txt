@@ -1,0 +1,12 @@
+D:\LINQ\SinhVien\bin\Debug\net10.0\SinhVien.deps.json
+D:\LINQ\SinhVien\bin\Debug\net10.0\SinhVien.dll
+D:\LINQ\SinhVien\bin\Debug\net10.0\SinhVien.pdb
+D:\LINQ\SinhVien\obj\Debug\net10.0\SinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINQ\SinhVien\obj\Debug\net10.0\SinhVien.AssemblyInfoInputs.cache
+D:\LINQ\SinhVien\obj\Debug\net10.0\SinhVien.AssemblyInfo.cs
+D:\LINQ\SinhVien\obj\Debug\net10.0\SinhVien.csproj.CoreCompileInputs.cache
+D:\LINQ\SinhVien\obj\Debug\net10.0\SinhVien.sourcelink.json
+D:\LINQ\SinhVien\obj\Debug\net10.0\SinhVien.dll
+D:\LINQ\SinhVien\obj\Debug\net10.0\refint\SinhVien.dll
+D:\LINQ\SinhVien\obj\Debug\net10.0\SinhVien.pdb
+D:\LINQ\SinhVien\obj\Debug\net10.0\ref\SinhVien.dll
