@@ -1,0 +1,15 @@
+D:\LINQ\Bai2\bin\Debug\net10.0\Bai2.exe
+D:\LINQ\Bai2\bin\Debug\net10.0\Bai2.deps.json
+D:\LINQ\Bai2\bin\Debug\net10.0\Bai2.runtimeconfig.json
+D:\LINQ\Bai2\bin\Debug\net10.0\Bai2.dll
+D:\LINQ\Bai2\bin\Debug\net10.0\Bai2.pdb
+D:\LINQ\Bai2\obj\Debug\net10.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINQ\Bai2\obj\Debug\net10.0\Bai2.AssemblyInfoInputs.cache
+D:\LINQ\Bai2\obj\Debug\net10.0\Bai2.AssemblyInfo.cs
+D:\LINQ\Bai2\obj\Debug\net10.0\Bai2.csproj.CoreCompileInputs.cache
+D:\LINQ\Bai2\obj\Debug\net10.0\Bai2.sourcelink.json
+D:\LINQ\Bai2\obj\Debug\net10.0\Bai2.dll
+D:\LINQ\Bai2\obj\Debug\net10.0\refint\Bai2.dll
+D:\LINQ\Bai2\obj\Debug\net10.0\Bai2.pdb
+D:\LINQ\Bai2\obj\Debug\net10.0\Bai2.genruntimeconfig.cache
+D:\LINQ\Bai2\obj\Debug\net10.0\ref\Bai2.dll
